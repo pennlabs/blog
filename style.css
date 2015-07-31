@@ -1092,6 +1092,10 @@ label {
 .comment-form-author { margin: 0; }
 .comment-form-author input, .comment-form-email input, .comment-form-url input { width: 100%; }
 
+.comment-form {
+    padding-bottom: 2em;
+}
+
 /*--------------------------------------------------------------
 10.0 Widgets
 --------------------------------------------------------------*/
