@@ -14,7 +14,7 @@
 		<div class="site-info">
 			<a href="http://wordpress.org/" rel="generator"><?php printf( __( 'Proudly powered by %s', 'story' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'story' ), 'Story', '<a href="http://webtuts.pl/themes" rel="designer">WebTuts</a>' ); ?>
+			<a href="http://github.com/pennlabs/blog">Theme</a> by <a href="http://pennlabs.org/">Penn Labs</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

@@ -67,7 +67,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	box-sizing:         border-box;
 }
 body {
-	background: #fff;
+	background-size: auto 100%;
 }
 article,
 aside,
